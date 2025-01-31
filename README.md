@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sree Harsha Tumuluri</h1>
 <h3 align="center">A passionate Software developer</h3>
 
-- 🌱 I’m currently learning **Nodejs & Web Dev With Python**
+- 🌱 I’m currently learning **Nodejs,Python, AndroidDevlopment**
 
 - 👨‍💻 All of my projects are available at [https://sreeharsha18tumuluri.netlify.app/](https://sreeharsha18tumuluri.netlify.app/)
 
