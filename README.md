@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sreeharsha18tumuluri.netlify.app/](https://sreeharsha18tumuluri.netlify.app/)
 
-- 💬 Ask me about **Machine learning, Data Mining, Data Engineering, Fullstack ,React, Solidity,Blockchain,**
+- 💬 Ask me about **Machine learning, Data Mining, Data Engineering, Android Development, Fullstack ,React, Solidity,Blockchain,**
 
 - 📫 How to reach me **harshatumuluri00@gmail.com**
 
